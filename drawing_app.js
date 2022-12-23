@@ -5,7 +5,9 @@ var IMG_MOD_W = 205;
 
 var debug_img = null;
 
-var MODES = ['bike_svgs', 'smiley_svgs'];
+// get the keys of the variable all_texts
+var MODES = Object.keys(all_texts);
+// var MODES = ['bike_svgs', 'smiley_svgs'];
 var mode_idx = 0;
 
 // ========== BIG STACK OF GLOBAL VARS LUL ==========
