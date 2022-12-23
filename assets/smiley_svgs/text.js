@@ -1,4 +1,4 @@
-var texts = [
+var smiley_texts = [
     "Using the SVG format, output a schematic drawing of a smiley face. Put the output in the code block.",
     "keep the circular face, but don't fill it with the yellow",
     "this is great! can you make the outer circle black instead of yellow ?",

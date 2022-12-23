@@ -1,0 +1,20 @@
+var bike_texts = [
+    "Using the SVG format, output a schematic drawing of a bicycle. Put the output in the code block.",
+    "remove the rectangles and lines",
+    "bring the wheels closer together",
+    "move the left circle more right",
+    "add a vertical line from the center of the left circle, pointing upwards",
+    "snap the bottom of the line to the center of the circle",
+    "now remake the same line on the right wheel",
+    "double the length of both lines by extending the top upwards",
+    "okay add another vertical line, the same size, between the two verticle lines in the middle",
+    "move this line to the right so it is in the center",
+    "move the line so it is equal distance from the left wheel and to the right wheel",
+    "take the line on the right wheel, move the top point left",
+    "keep moving it left more",
+    "add another line",
+    "add another line connecting the bottom points",
+    "move the bottom line rightward",
+    "moving it rightward more",
+    
+]
